@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520469873658",
+    "project_id": "signin-396ae",
+    "storage_bucket": "signin-396ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520469873658:android:c286f4c615f034fd77da43",
+        "android_client_info": {
+          "package_name": "com.example.google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520469873658-3h8c8gdp6d9qe037hvroe3kntgdt62ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIO3cdlHcDD3COFqkMHAVnMdXzXa4TDiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520469873658-3h8c8gdp6d9qe037hvroe3kntgdt62ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
